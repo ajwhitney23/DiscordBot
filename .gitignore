@@ -9,3 +9,8 @@ node_modules/
 
 #executables 
 *.o
+
+
+#packages
+package-lock.json
+package.json
