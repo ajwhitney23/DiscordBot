@@ -1,0 +1,8 @@
+#Token
+.env
+
+#vscode
+.vscode
+
+#node
+node_modules/
